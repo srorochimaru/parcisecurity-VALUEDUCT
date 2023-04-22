@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recgraf</string>
+
+    <string name="cambiar_patron">Cambiar Patrón</string>
+    <string name="grafos">___Grafos__</string>
+    <string name="Recursividad">_Recursividad</string>
+    <string name="Permutaciones">Permutaciones</string>
+    <string name="Acerca">Acerca de_</string>
+
+    <string name="Text_patron">Implementar patrón de seguridad</string>
+    <string name="Text_Recursividad">Aprender jugando</string>
+</resources>
